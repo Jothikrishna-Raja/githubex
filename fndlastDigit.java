@@ -16,6 +16,6 @@
            }
            
            
-        int res=(int)Math.pow(numa,numb);
+        int res=(int)Math.pow(numa,numb);//this is result.
            return res%10;
        
